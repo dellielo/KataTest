@@ -13,7 +13,7 @@ Overview
       - | |travis| |appveyor|
         | |codecov|
     * - package
-      - | |version| |wheel| |supported-versions| |supported-implementations|
+      - | |version| 
         | |commits-since|
 .. |docs| image:: https://readthedocs.org/projects/katatest/badge/?style=flat
     :target: https://readthedocs.org/projects/katatest
@@ -31,21 +31,6 @@ Overview
     :alt: Coverage Status
     :target: https://codecov.io/github/dellielo/katatest
 
-.. |version| image:: https://img.shields.io/pypi/v/katatest.svg
-    :alt: PyPI Package latest release
-    :target: https://pypi.org/project/katatest
-
-.. |wheel| image:: https://img.shields.io/pypi/wheel/katatest.svg
-    :alt: PyPI Wheel
-    :target: https://pypi.org/project/katatest
-
-.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/katatest.svg
-    :alt: Supported versions
-    :target: https://pypi.org/project/katatest
-
-.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/katatest.svg
-    :alt: Supported implementations
-    :target: https://pypi.org/project/katatest
 
 .. |commits-since| image:: https://img.shields.io/github/commits-since/dellielo/katatest/v0.0.0.svg
     :alt: Commits since latest release
