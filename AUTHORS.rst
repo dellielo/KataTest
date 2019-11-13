@@ -2,4 +2,4 @@
 Authors
 =======
 
-* Elodie Dellier - None
+* Elodie Dellier - Me
